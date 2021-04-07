@@ -1,4 +1,4 @@
-### Hi there 👋
+###  I am ready to explore the mobile world👋
 
 <!--
 **AndreT5682/AndreT5682** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
